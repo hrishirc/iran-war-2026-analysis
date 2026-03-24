@@ -41,10 +41,8 @@ markdown_extensions:
   - toc:
       permalink: true
 
-docs_dir: .
-
 nav:
-  - Home: README.md
+  - Home: index.md
   - Simulation:
     - Master Simulation: simulation/master-simulation.md
     - Incentive Map: simulation/incentive-map.md

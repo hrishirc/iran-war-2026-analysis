@@ -26,6 +26,14 @@ jobs:
 
       - run: pip install "mkdocs>=1.6,<2" mkdocs-material
 
+      - name: Prepare docs directory
+        run: |
+          mkdir -p docs
+          for dir in resources countries industries cascades simulation blind-spots; do
+            cp -r "$dir" docs/
+          done
+          cp README.md docs/index.md
+
       - run: mkdocs build
 
       - uses: actions/upload-pages-artifact@v3
