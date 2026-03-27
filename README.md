@@ -1,6 +1,6 @@
 # 2026 Iran War: Geopolitical & Resource Cascade Analysis
 
-**76 files. 18 resources. 18 countries. 20 cascade models. 5 probability-weighted scenarios.**
+**99 files. 18 resources. 18 countries. 20 cascade models. 5 probability-weighted scenarios.**
 
 **[Chat with this research](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0)** | **[Browse the site](https://hrishirc.github.io/iran-war-2026-analysis/)**
 
@@ -33,9 +33,10 @@ The answer: cascades compound in ways that no single-issue analysis captures. Th
 
 ## How It's Structured
 
-The analysis is organized in six intelligence layers, each building on the one below:
+The analysis is organized in seven intelligence layers, each building on the one below:
 
 ```
+Layer 7: COMMUNICATION        Public assets, outreach, distribution to external audiences
 Layer 6: BLIND SPOTS          What we don't know and might be wrong about
 Layer 5: SIMULATION            Phase-by-phase predictions and scenarios
 Layer 4: CASCADES              How disruptions compound across domains  ← the analytical core
@@ -98,6 +99,24 @@ Combinatorial matrix, November 2026 convergence, water crisis, cyber escalation,
 - Analysis built bottom-up from resource constraints, not top-down from political assumptions
 - Verified facts distinguished from reasonable inferences distinguished from speculation
 - Combinatorial analysis identifying correlated disruption cascades that single-issue analysis misses
+
+### Public Assets & Distribution
+
+For journalists, researchers, and content creators, the following public-facing assets are available:
+
+| Asset | Description | Link |
+|--------|-------------|------|
+| **Interactive Site** | Browse all analysis, cross-linked by resource/country/industry/ cascade | [hrishirc.github.io](https://hrishirc.github.io/iran-war-2026-analysis/) |
+| **NotebookLM Chat** | Chat with the entire research corpus | [NotebookLM](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0) |
+| **HTML Infographic** | Screenshot-ready cascade visualization | [sharing/infographic.html](sharing/infographic.html) |
+| **Substack Article** | 1500-word narrative summary | [sharing/substack-article.md](sharing/substack-article.md) |
+| **YouTube Script** | 10-minute explainer with visual cues | [sharing/youtube-script.md](sharing/youtube-script.md) |
+| **Podcast Script** | 10-minute conversational audio script | [sharing/podcast-script.md](sharing/podcast-script.md) |
+| **Press Release** | Formal media announcement | [sharing/press-release.md](sharing/press-release.md) |
+
+All assets are licensed under CC BY 4.0. Feel free to adapt and reuse with attribution.
+
+
 
 ## How This Was Built
 
