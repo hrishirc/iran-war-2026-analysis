@@ -19,6 +19,7 @@ Knowledge is organized bottom-up. Each layer cites the layer below it.
 | 4. Cascade Modeling | Cross-domain synthesis | `/cascades/` | How disruptions compound across resources, industries, and countries simultaneously. The analytical core. |
 | 5. Integrated Simulation | Prediction | `/simulation/` | Phase-by-phase predictions and scenarios. Built from all layers below. |
 | 6. Gaps & Uncertainties | Meta-analysis | `/blind-spots/` | What we don't know, underweighted actors, wrong assumptions, unmodeled dynamics. |
+| 7. Communication & Distribution | Audience reach | `/sharing/` | Public-facing assets, journalist outreach, social media templates. Communicates intelligence layers to external audiences. |
 
 **Citation chain**: Simulation cites cascades. Cascades cite industries + resources. Industries cite resources. Countries cite resources + news. Resources cite primary sources (news, think tanks, government data).
 
@@ -74,6 +75,11 @@ LAYER 5: SIMULATION (8 files)
 
 LAYER 6: META-ANALYSIS (1 file)
   blind-spots/analysis.md ◄── reads all layers; identifies gaps
+
+LAYER 7: COMMUNICATION & DISTRIBUTION (22 files)
+  sharing/00-sharing-guide.md ◄── navigational index
+  5 public assets (committed) ──────┐
+  17 private strategy files (local) ───┴──→ External audiences: journalists, social media, podcasts, video
 ```
 
 **Key cascade clusters** (highest-impact cross-domain interactions):
@@ -141,7 +147,7 @@ LAYER 6: META-ANALYSIS (1 file)
 | 2026-03-24 | Cyber escalation scenarios | cascades/cyber-escalation-scenarios.md, CLAUDE.md | Full cyber warfare analysis both directions. 6 scenarios with probabilities. Fills priority gap #2. |
 | 2026-03-24 | Pakistan country analysis | countries/pakistan.md | Nuclear-armed Iran neighbor; 170 warheads; Baluchistan border risk; CPEC alternative route; $38.3B remittance exposure; sectarian fragility |
 | 2026-03-24 | North Korea country analysis | countries/north-korea.md | DPRK-Iran missile lineage; THAAD/Patriot redeployed from Korea to ME; Kim's optimal provocation window late 2026; $2B+ crypto theft capacity |
-| 2026-03-24 | Japan country analysis | countries/japan.md | 93% oil via Hormuz; 241-254 day SPR; four strategic paradoxes; TSMC Kumamoto; DPRK missile barrages; Sept-Oct SPR crisis point |
+| 2026-03-24 | Japan country analysis | countries/japan.md | ~80% oil via Hormuz; 241-254 day SPR; four strategic paradoxes; TSMC Kumamoto; DPRK missile barrages; Sept-Oct SPR crisis point |
 | 2026-03-24 | Pharmaceutical supply chains | industries/pharmaceuticals.md | 60-day inflection point (late April); China controls 70% of India's API imports; WHO Dubai hub paralyzed; antibiotics/metformin most exposed |
 | 2026-03-24 | Insurance systemic risk cascade | cascades/insurance-systemic-risk.md | $1:$390 trade multiplier; Lloyd's £126B chain of security; PICC state-backed asymmetry for China; correlated losses across 8 insurance lines |
 | 2026-03-24 | Migration & remittance cascade | cascades/migration-remittance-cascade.md | 30M foreign nationals in GCC; $115B annual remittances; Nepal 27% GDP exposed; 10-15x scale of 1990-91 Gulf War displacement |
@@ -151,11 +157,14 @@ LAYER 6: META-ANALYSIS (1 file)
 | 2026-03-24 | Final blind spots batch | 7 new cascade/resource files | Crypto (A7A5 stablecoin $100B+), space/satellite (BeiDou transition, Khayyam), info warfare (145M deepfake views), climate (El Nino 62%), domestic unrest (9 countries), health/environmental (Tehran black rain), construction materials ($350-650B reconstruction) |
 | 2026-03-24 | Deep blind spots batch | 10 new files | Nuclear proliferation cascade, global financial contagion, Yemen/Houthi/Red Sea, Turkey, Central Asia, PGMs, ASEAN, war termination, Sunni-Shia, maritime chokepoints |
 | 2026-03-24 | Final research files | 3 new files | Lebanon/Hezbollah (ceasefire controlled by Tehran; arsenal -85%), Ukraine interaction (revenue-expenditure inversion; Russia grand bargain offer), China-Taiwan window (coercive leverage > invasion; mediator paradox) |
+| 2026-03-26 | Quality assurance pass and simulation rebuild | ~50 files across all layers | Full QA audit with sourced corrections across all intelligence layers. Simulation rebuilt with corrected inputs: Brent peak $119.50, Japan Hormuz ~80% (IEA), Tomahawk ~4,000, Shahed $30-50K (CSIS). Added Methodology & Uncertainty section, China Risks & Constraints analysis, probability methodology notes. GDP estimate: $1.2-1.8T (excl. nuclear tail). See blind-spots/red-team-audit.md for QA methodology. |
+| 2026-03-26 | China Hormuz bypass analysis | cascades/china-hormuz-bypass-analysis.md, 00-cascade-index.md, CLAUDE.md | Pipeline-by-pipeline (ESPO, Kazakhstan, Myanmar, Power of Siberia), maritime (Russia Pacific, Brazil, W. Africa, Arctic NSR), SPR (1.2-1.3B bbl), demand management (1.5-3.4M bpd). 3-month: high confidence yes. 6-month: yes with pain. 12-month: possible but transformative. |
+| 2026-03-27 | Communication & distribution layer | sharing/ (22 files), CLAUDE.md | Added Layer 7: public-facing assets (infographic.html, substack-article.md, youtube-script.md, podcast-script.md, press-release.md), journalist outreach templates, social media posting guides. 5 public assets committed; 17 strategy files kept local. |
 | | | | |
 
 ---
 
-## File Inventory (76 files)
+## File Inventory (99 files)
 
 ### Root
 - `README.md` — Public-facing project description
@@ -195,7 +204,7 @@ LAYER 6: META-ANALYSIS (1 file)
 - `south-korea.md` — Triple semiconductor input crisis, energy dependency, defense exports, financial market shock
 - `pakistan.md` — 170 nuclear warheads; Baluchistan border; CPEC alternative route; $38.3B remittance exposure; sectarian risk
 - `north-korea.md` — DPRK-Iran missile lineage; THAAD redeployed from Korea; Kim's late-2026 provocation window; $2B crypto theft
-- `japan.md` — 93% oil via Hormuz; 254-day SPR; four strategic paradoxes; TSMC Kumamoto; DPRK missile threat
+- `japan.md` — ~80% oil via Hormuz; 254-day SPR; four strategic paradoxes; TSMC Kumamoto; DPRK missile threat
 - `africa.md` — 45M additional acute hunger; 90% fertilizer imports; Nigeria oil windfall; Morocco phosphate asset; Dangote refinery; most harmed, least consulted
 - `latin-america.md` — Brazil fertilizer paradox; Venezuela sanctions reversal; Argentina lithium/shale boom; Chile copper; Mexico nearshoring; Q2 phase transition risk
 - `turkey.md` — NATO 2nd largest military; Bosporus control; Incirlik/B61; Kurdish dimension; Bayraktar exports; Erdogan's balancing act
@@ -212,8 +221,9 @@ LAYER 6: META-ANALYSIS (1 file)
 - `automotive.md` — BYD/1973 parallel; 6 simultaneous input constraints; +8-15% vehicle inflation; Japan/Korea critical exposure
 - `energy-transition.md` — Green transition paradox quantified; nuclear = only tech accelerated AND not China-dependent; 2-4yr delay, 10-20yr acceleration; copper as binding constraint #1
 
-### `/cascades/` (20 files)
+### `/cascades/` (21 files)
 - `00-cascade-index.md` — Brain file: cascade coverage index
+- `china-hormuz-bypass-analysis.md` — Pipeline-by-pipeline, maritime, SPR, demand management: can China survive 3/6/12 months without Hormuz?
 - `combinatorial-matrix.md` — Brain file: 5 major cascade models, meta-cascade (China)
 - `november-2026-convergence.md` — Three-pressure convergence: US midterms (Nov 3) + China gallium/germanium deadline (Nov 27) + EU winter energy crisis (Dec 1)
 - `water-crisis-model.md` — Desalination crisis: 100M+ at risk, 4 escalation levels, energy-water death spiral
@@ -246,6 +256,21 @@ LAYER 6: META-ANALYSIS (1 file)
 
 ### `/blind-spots/` (1 file)
 - `analysis.md` — Brain file: 6 categories of unmodeled risks
+
+### `/sharing/` (22 files — 5 public, 17 private/local)
+- `00-sharing-guide.md` — Brain file: rollout schedule, platform rules, checklist
+- `infographic.html` — Screenshot-ready HTML cascade visualization (public, committed)
+- `substack-article.md` — 1500-word narrative article (public, committed)
+- `youtube-script.md` — 10-minute explainer script with visual cues (public, committed)
+- `podcast-script.md` — 10-minute conversational audio script (public, committed)
+- `press-release.md` — Formal press release for media outreach (public, committed)
+- `linkedin-carousel.md` — 13-slide LinkedIn carousel content (private)
+- `infographic-spec.md` — Canva layout spec (private)
+- `journalist-pitch.md` — Email templates by beat (private)
+- `journalist-emails-individual.md` — 10 personalized journalist pitches (local only)
+- `niche-platforms.md` — Template reuse map for multiple communities (private)
+- `event-hooks.md` — Reshare triggers when predictions come true (private)
+- `[platform-specific posts]` — Twitter, Reddit, LinkedIn, HN templates (private)
 
 ---
 
