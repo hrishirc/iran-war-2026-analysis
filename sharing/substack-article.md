@@ -113,11 +113,11 @@ That's not a military problem. It's a systems problem. And systems problems don'
 
 ---
 
-**Explore the full analysis:** [coderexpert123.github.io/iran-war-2026-analysis](https://coderexpert123.github.io/iran-war-2026-analysis/)
+**Explore the full analysis:** [coderexpert123.github.io/war-games-2026](https://coderexpert123.github.io/war-games-2026/)
 
 **Chat with the research:** [NotebookLM](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0)
 
-**Source code:** [GitHub](https://github.com/coderexpert123/iran-war-2026-analysis)
+**Source code:** [GitHub](https://github.com/coderexpert123/war-games-2026)
 
 ---
 

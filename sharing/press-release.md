@@ -10,7 +10,7 @@
 
 **[CITY], March 26, 2026** — A comprehensive open-source simulation of the 2026 Iran War, built using AI research agents and modeling 18 resources, 18 countries, and 20 cascade pathways, predicts a global pharmaceutical supply crisis beginning in late April 2026 as buffer stocks for antibiotics and diabetes medications exhaust approximately 60 days after Hormuz Strait closure.
 
-The simulation, available at [coderexpert123.github.io/iran-war-2026-analysis](https://coderexpert123.github.io/iran-war-2026-analysis/), models the war from physical resource constraints upward rather than from political assumptions downward. Its key findings challenge conventional analysis of the conflict's trajectory and outcomes.
+The simulation, available at [coderexpert123.github.io/war-games-2026](https://coderexpert123.github.io/war-games-2026/), models the war from physical resource constraints upward rather than from political assumptions downward. Its key findings challenge conventional analysis of the conflict's trajectory and outcomes.
 
 **Key Findings:**
 
@@ -32,13 +32,13 @@ The simulation, available at [coderexpert123.github.io/iran-war-2026-analysis](h
 
 The simulation was built using Claude Code (Anthropic) as an orchestration layer, deploying parallel research agents to investigate each resource, country, and cascade pathway independently. Each agent produced sourced analysis from major news outlets, think tanks, and government reports dated February-March 2026. The knowledge architecture uses six intelligence layers with traceable citations from raw data through integrated simulation.
 
-All 76 files are open source under CC BY 4.0 license and available at [github.com/coderexpert123/iran-war-2026-analysis](https://github.com/coderexpert123/iran-war-2026-analysis).
+All 76 files are open source under CC BY 4.0 license and available at [github.com/coderexpert123/war-games-2026](https://github.com/coderexpert123/war-games-2026).
 
 **Availability:**
 
-- Full analysis: [coderexpert123.github.io/iran-war-2026-analysis](https://coderexpert123.github.io/iran-war-2026-analysis/)
+- Full analysis: [coderexpert123.github.io/war-games-2026](https://coderexpert123.github.io/war-games-2026/)
 - Interactive chat: [NotebookLM](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0)
-- Source code: [GitHub](https://github.com/coderexpert123/iran-war-2026-analysis)
+- Source code: [GitHub](https://github.com/coderexpert123/war-games-2026)
 
 **About the Project:**
 

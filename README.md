@@ -2,7 +2,7 @@
 
 **99 files. 18 resources. 18 countries. 20 cascade models. 5 probability-weighted scenarios.**
 
-**[Chat with this research](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0)** | **[Browse the site](https://coderexpert123.github.io/iran-war-2026-analysis/)**
+**[Chat with this research](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0)** | **[Browse the site](https://coderexpert123.github.io/war-games-2026/)**
 
 A bottom-up geopolitical simulation of the 2026 Iran War (US/Israel vs Iran, started Feb 28), built entirely from open-source intelligence. Unlike top-down political punditry, this analysis starts from physical resource constraints — oil flows, mineral supply chains, semiconductor inputs, food systems — and models how disruptions cascade across industries, countries, and each other simultaneously.
 
@@ -106,7 +106,7 @@ For journalists, researchers, and content creators, the following public-facing 
 
 | Asset | Description | Link |
 |--------|-------------|------|
-| **Interactive Site** | Browse all analysis, cross-linked by resource/country/industry/ cascade | [coderexpert123.github.io](https://coderexpert123.github.io/iran-war-2026-analysis/) |
+| **Interactive Site** | Browse all analysis, cross-linked by resource/country/industry/ cascade | [coderexpert123.github.io](https://coderexpert123.github.io/war-games-2026/) |
 | **NotebookLM Chat** | Chat with the entire research corpus | [NotebookLM](https://notebooklm.google.com/notebook/4cf9474f-194d-4607-8953-8ee84a9e66e0) |
 | **HTML Infographic** | Screenshot-ready cascade visualization | [sharing/infographic.html](sharing/infographic.html) |
 | **Substack Article** | 1500-word narrative summary | [sharing/substack-article.md](sharing/substack-article.md) |

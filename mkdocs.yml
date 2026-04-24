@@ -1,8 +1,8 @@
 site_name: "2026 Iran War: Geopolitical & Resource Cascade Analysis"
 site_description: "76-file geopolitical simulation built bottom-up from resource constraints. 18 resources, 18 countries, 20 cascade models, 5 scenarios."
-site_url: https://coderexpert123.github.io/iran-war-2026-analysis/
-repo_url: https://github.com/coderexpert123/iran-war-2026-analysis
-repo_name: coderexpert123/iran-war-2026-analysis
+site_url: https://coderexpert123.github.io/war-games-2026/
+repo_url: https://github.com/coderexpert123/war-games-2026
+repo_name: coderexpert123/war-games-2026
 
 theme:
   name: material
